@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 Hey! I'm Jeevan, a frontend developer and final-year ISE student at Bangalore Institute of Technology. I specialize in crafting responsive, pixel-perfect web applications with React, Firebase, and Tailwind CSS. I'm passionate about writing clean code and building intuitive user experiences. Eager to contribute to open source and collaborate with fellow developers.
 
 ## 🌐 Socials:
